@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "calculadoraimc",
+    "slug": "calculadoraimc",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.eduardatv.snack26aa6d96cb584cb9959d5ab6e421327b"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5b350b44-8aec-4b04-95f7-769983491314"
+      }
+    },
+    "owner": "eduardatv"
+  }
+}
